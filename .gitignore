@@ -1,5 +1,6 @@
 .pio
 .vscode
+.DS_Store
 workspace.code-workspace
 test
 platformio.ini
